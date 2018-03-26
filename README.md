@@ -13,7 +13,7 @@ Júlia Ferreira da silva:juliafds2001@gmail.com<br>
 Cofre inteligente <nome do projeto>
 <br>e motivação da escolha realizada. <br>
 
-> O projeto "Cofre inteligente" visa colaborar com o armazenamento e contagem de dinheiro de uma empresa ou de uma pessoa, visto que muitos não confiam em bancos e muitas vezes não querem se deslocar até uma caixa registradora para obter o próprio dinheiro.
+> O projeto "Cofre inteligente" visa colaborar com o armazenamento e contagem de dinheiro de uma empresa ou de uma pessoa, visto que muitos não confiam em bancos e muitas vezes não querem se deslocar até uma caixa eletrônico para obter o próprio dinheiro.
 Além de tudo, o cofre possui uma estrutura tão forte que acabaria com o medo da perda do dinheiro, caso o banco de dados de uma empresa bancária fosse apagado, pois, mesmo se a memória do cofre fosse danificada, o dinheiro "vivo" continuaria nas mãos do usuário.
  
 
